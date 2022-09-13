@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T18:20:12.303Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="BiQQO3c9a0XXW2lDz2gQ" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T18:46:09.458Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="E1Go8Lni-NGrZAE8qkNS" version="20.3.0" type="github">
   <diagram id="7m6cvPbWRJTvMz217Rmq" name="Page-1">
-    <mxGraphModel dx="2868" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2532" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,9 +184,6 @@
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-17" value="get_onboarding_teacher_status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="425" y="340" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lclgl3dNgC2Uq-6OldUo-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lclgl3dNgC2Uq-6OldUo-66" target="Lclgl3dNgC2Uq-6OldUo-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-66" value="contact_details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="160" height="50" as="geometry" />
         </mxCell>
@@ -215,6 +212,35 @@
         </mxCell>
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-70" value="profile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-30" y="560" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-75" value="lesson_details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lclgl3dNgC2Uq-6OldUo-66" target="Lclgl3dNgC2Uq-6OldUo-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lclgl3dNgC2Uq-6OldUo-76" target="Lclgl3dNgC2Uq-6OldUo-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="269" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="640" />
+              <mxPoint x="410" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lclgl3dNgC2Uq-6OldUo-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-76" value="update_lesson_details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="185" y="630" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-79" value="profile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="630" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-80" value="&lt;b&gt;PUBLISH COURSES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="250" y="990" width="920" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
