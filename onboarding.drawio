@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T12:40:47.923Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_fw4Et5fEVVdl5IbfjOK" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T12:41:28.181Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hqDtBzqFBNMbtoYTAyYG" version="20.3.0" type="github">
   <diagram id="7m6cvPbWRJTvMz217Rmq" name="Page-1">
     <mxGraphModel dx="1682" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-17" value="get_onboarding_teacher_status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lclgl3dNgC2Uq-6OldUo-21" value="teacher_onboarfing [GET]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-21" value="teacher_onboarding [GET]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
