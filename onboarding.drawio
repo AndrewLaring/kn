@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T12:17:20.961Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="b53GAodvi9ydmwrT42yR" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T12:23:41.243Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="r0YmLczqSBv21USRK_4z" version="20.3.0" type="github">
   <diagram id="7m6cvPbWRJTvMz217Rmq" name="Page-1">
-    <mxGraphModel dx="5672" dy="3388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5010" dy="3007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-1" value="&lt;b&gt;ADNGULAR&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-40" y="40" width="680" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Lclgl3dNgC2Uq-6OldUo-2" value="&lt;b&gt;POSTGRES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="Lclgl3dNgC2Uq-6OldUo-2" value="&lt;b&gt;IAM POSTGRES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-260" y="320" width="380" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-3" value="&lt;b&gt;IAM MS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" parent="1" vertex="1">
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-21" value="teacher_onboarding [GET]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="425" y="220" width="175" height="50" as="geometry" />
+          <mxGeometry x="440" y="220" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-23" value="teacher_genres" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="-30" y="495" width="140" height="50" as="geometry" />
@@ -261,9 +261,6 @@
         <mxCell id="Lclgl3dNgC2Uq-6OldUo-79" value="lesson_details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="-30" y="630" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lclgl3dNgC2Uq-6OldUo-80" value="&lt;b&gt;PUBLISH COURSES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="250" y="990" width="920" height="470" as="geometry" />
-        </mxCell>
         <mxCell id="CJhDBtKXY4oaAGzxTaUZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CJhDBtKXY4oaAGzxTaUZ-1" target="Lclgl3dNgC2Uq-6OldUo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -294,7 +291,7 @@
         <mxCell id="CJhDBtKXY4oaAGzxTaUZ-15" value="edit_course" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-900" y="-120" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CJhDBtKXY4oaAGzxTaUZ-16" value="&lt;b&gt;POSTGRES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="CJhDBtKXY4oaAGzxTaUZ-16" value="&lt;b&gt;COURSES POSTGRES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-930" y="210" width="380" height="560" as="geometry" />
         </mxCell>
         <mxCell id="CJhDBtKXY4oaAGzxTaUZ-17" value="courses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
@@ -305,6 +302,9 @@
         </mxCell>
         <mxCell id="CJhDBtKXY4oaAGzxTaUZ-20" value="update_lesson_details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="185" y="770" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CJhDBtKXY4oaAGzxTaUZ-22" value="teacher_courses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="370" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
